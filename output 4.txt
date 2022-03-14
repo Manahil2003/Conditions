@@ -1,0 +1,81 @@
+Program 5.1
+Check if pass or not
+Enter Marks:30
+Fail
+
+
+Program 5.2
+Check Equality  between numbers
+Enter Number 1:4
+Enter Number 2:4
+Equal
+
+
+Program 5.3
+Check if the second number is square of first number
+Enter Number 1:9
+Enter Number 2:3
+Number one is Square of number 2
+
+
+Program 5.4
+Enter marks and check average (if avg >= 80 , admission granted)
+Enter Number 1:100
+Enter Number 2:200
+Enter Number 3:300
+You are above standard
+Admission granted
+
+
+Program 5.5
+Find the maximum number
+Enter Number 1:6
+Enter Number 2:8
+Enter Number 3:9
+Maximum number : 9
+
+
+Program 5.6
+Find Nature of Number
+Enter a number:-8
+Negative number
+
+
+Program 5.7
+Find Minimum and Maxmimum
+Find five Numbers
+Number 1:5
+Number 2:6
+Number 3:7
+Number 4:8
+Number 5:9
+Maximum number : 6
+Minimum number : 5
+
+
+Program 5.8
+Program inputs a number and check if it is even or odd
+Enter a Number
+6
+Even
+
+
+Program 5.9
+Program finds if the year is leap year or not
+Enter a year in numbers:7
+This is not a leap year
+
+
+Program 5.10
+Program finds bonus on salary then gives the total salary
+Enter your salary:20000
+Enter your grade:3
+Your total salary is RS 25000.0
+
+
+Program 5.11
+Program checks if first integer is a multiple of second integer or not
+Integer 1:6
+Integer 2:3
+The first number is a multiple of second
+The first integer is not a multiple of second.
